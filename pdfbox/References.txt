@@ -1,0 +1,3 @@
+https://dzone.com/articles/creating-pdf-documents-with-apache-pdfbox-2
+https://stackoverflow.com/questions/16581471/adding-page-numbers-using-pdfbox
+https://www.tutorialspoint.com/pdfbox/pdfbox_adding_multiple_lines.htm
